@@ -1,3 +1,5 @@
+###NOT COMPLETE!!! ONLY LOADS IN DATA, DOES NOT YET CALIBRATE. UPDATE COMING SOON!
+
 # Attempting to re-write parts of 'Main_Pod_Code.mat' (December 2021 edition) in python
 
 #----------------------Import in necessary toolboxes----------------------
